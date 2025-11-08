@@ -1,5 +1,5 @@
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQG2Y4cvbDeiuw/profile-displaybackgroundimage-shrink_350_1400/B56Zo2ccUVIYAY-/0/1761850018742?e=1764201600&v=beta&t=P-EJzdsT38FPsTydo51PPIUNyt452Pzubf-utbY8TV0">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEAxW7umi_T-A/profile-displaybackgroundimage-shrink_350_1400/B56Zphf7lAJsAY-/0/1762572353034?e=1764201600&v=beta&t=T2GQBRQb67yGeGI_nD3qNvhZm-pwYc0B0CWXhwaylJ8">
 <h3 align="center">Web Designer & Developer │ Expert in WordPress | Help clients build modern, responsive, and user-friendly websites</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devkhair77&label=Profile%20views&color=0e75b6&style=flat" alt="devkhair77" /> </p>
