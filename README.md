@@ -35,6 +35,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devkhair77&show_icons=true&locale=en&layout=compact" alt="devkhair77" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devkhair77&show_icons=true&locale=en" alt="devkhair77" /></p>
+[![Mohammad Abul Khair's GitHub stats](https://github-readme-stats.vercel.app/api?username=devkhair77)](https://github.com/devkhair31/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devkhair77&" alt="devkhair77" /></p>
