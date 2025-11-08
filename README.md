@@ -2,9 +2,9 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQEAxW7umi_T-A/profile-displaybackgroundimage-shrink_350_1400/B56Zphf7lAJsAY-/0/1762572353034?e=1764201600&v=beta&t=T2GQBRQb67yGeGI_nD3qNvhZm-pwYc0B0CWXhwaylJ8">
 <h3 align="center">Web Designer & Developer │ Expert in WordPress | Help clients build modern, responsive, and user-friendly websites</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devkhair77&label=Profile%20views&color=0e75b6&style=flat" alt="devkhair77" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devkhair31&label=Profile%20views&color=0e75b6&style=flat" alt="devkhair31" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devkhair77" alt="devkhair77" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devkhair31" alt="devkhair31" /></a> </p>
 
 - 🔭 I’m currently working on **Freelancer.com**
 
