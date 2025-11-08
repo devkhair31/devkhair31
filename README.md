@@ -39,3 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devkhair77&show_icons=true&locale=en" alt="devkhair77" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devkhair77&" alt="devkhair77" /></p>
+[![Abul Khair's GitHub stats](https://github-readme-stats.vercel.app/api?username=devkhair31)](https://github.com/devkhair31/github-readme-stats)
