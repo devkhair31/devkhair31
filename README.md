@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devkhair77" alt="devkhair77" /></a> </p>
 
-- 🔭 I’m currently working on [Freelancer.com](https://www.freelancer.com/u/devkhair77)
+- 🔭 I’m currently working on [Freelancer.com](#)
 
 - 🌱 I’m currently learning **Javascript, JQuery, PHP**
 
