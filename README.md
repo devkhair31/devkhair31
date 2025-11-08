@@ -16,8 +16,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/devkhair31](https://github.com/devkhair31)
 
-- 📝 I regularly write articles on [#](#)
-
 - 💬 Ask me about **Web Desing, Development and Wordpress Development**
 
 - 📫 How to reach me **devkhair31@gmail.com**
