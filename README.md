@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **devkhair31@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iSQ9OdW2iHVfLD27JXbSqU1cdpnDC5wJ/view?usp=sharing](https://drive.google.com/file/d/1iSQ9OdW2iHVfLD27JXbSqU1cdpnDC5wJ/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1OSWY3bTb3-RJNw9AGWt4l9SVKAXzAIWU/view?usp=sharing
 
 - ⚡ Fun fact **Learning**
 
